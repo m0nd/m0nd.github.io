@@ -1,0 +1,36 @@
+body {
+    font-size: 16px;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #e8e8e8;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.shadow {
+    text-shadow: 2px 5px;
+}
+
+.navigation {
+    list-style-type: none;
+}
+
+.highlight {
+    color: rgb(3, 99, 16);
+}
+
+.name-highlight {
+    color: rgb(207, 77, 16);
+    font-weight: bold;
+}
+
+.heading-center {
+    text-align: center;
+}
+
+.smaller-img {
+    width: 305px;
+    height: 295px;
+}
